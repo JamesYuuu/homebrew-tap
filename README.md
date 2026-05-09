@@ -3,7 +3,7 @@
 Install PhotoDeck with Homebrew:
 
 ```bash
-brew tap JamesYuuu/homebrew-tap
+brew tap JamesYuuu/tap
 brew install --cask photodeck
 ```
 
