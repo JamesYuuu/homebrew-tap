@@ -5,7 +5,7 @@ cask "photodeck" do
   url "https://github.com/JamesYuuu/homebrew-tap/releases/download/v#{version}/PhotoDeck.dmg"
   name "PhotoDeck"
   desc "Native photo viewer"
-  homepage "https://github.com/JamesYuuu/PhotoDeck"
+  homepage "https://github.com/JamesYuuu/homebrew-tap"
 
   depends_on macos: ">= :sequoia"
 
