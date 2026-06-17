@@ -7,7 +7,7 @@ cask "photodeck" do
   desc "Native photo viewer"
   homepage "https://github.com/JamesYuuu/PhotoDeck-Release"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "PhotoDeck.app"
 
