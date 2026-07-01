@@ -1,6 +1,6 @@
 cask "photodeck" do
-  version "1.3.1"
-  sha256 "80fbd28c7b14590e3683536ab336787c2fd47757f03cd19bf4aafc416de4ed30"
+  version "1.3.2"
+  sha256 "2b279883b88823d02a5fcfc6b7238534a6bdd75f9fe15a3fd97d01f8db1fd300"
 
   url "https://github.com/JamesYuuu/PhotoDeck-Release/releases/download/v#{version}/PhotoDeck.dmg"
   name "PhotoDeck"
